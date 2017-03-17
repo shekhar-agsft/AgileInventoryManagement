@@ -49,7 +49,7 @@
 			success : function(result) {
 				/* console.log(result) */
 				alert("requested")
-				var successUrl = "UsersView.jsp";
+				var successUrl = "agilelogin";
 				window.location.href = successUrl; 
 			}
 		});
